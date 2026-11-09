@@ -1,0 +1,13 @@
+{
+  "name": "football-back",
+  "version": "2.0.0",
+  "description": "Backend for com.sunsetpm.footballlatest.cricfy: serves scores and predictions from Bzzoiro Sports Data",
+  "main": "server.js",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
